@@ -1,0 +1,10 @@
+table,th, td {
+    text-align: center;
+}
+
+@media only screen and (max-width: 320px) {
+    .element {
+        display: inline-block;
+        width: 100%;
+    }
+}
